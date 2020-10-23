@@ -1,0 +1,494 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"kids",
+				"kidsmeal\tabc"
+			],
+			[
+				"ki",
+				"kidsmeal\tabc"
+			],
+			[
+				"Get",
+				"GetKidsMeals\tabc"
+			],
+			[
+				"Dow",
+				"DownloadButton\t(style.css)"
+			],
+			[
+				"eft",
+				"left\tfloat"
+			],
+			[
+				"text",
+				"textarea\tabc"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"bl",
+				"block\tdisplay"
+			],
+			[
+				"clea",
+				"clearboth\t(style.css)"
+			],
+			[
+				"clear",
+				"clearboth\tabc"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"intr",
+				"introimg\t(style.css)"
+			],
+			[
+				"r",
+				"right\tclear"
+			],
+			[
+				"trip",
+				"tripadvisor"
+			],
+			[
+				"n",
+				"nullable\tabc"
+			],
+			[
+				"acc",
+				"accommodation\tabc"
+			],
+			[
+				"accommodation",
+				"accommodation_type\tabc"
+			],
+			[
+				"bed",
+				"bedBreakfast\tabc"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"pet",
+				"petFriendly\tabc"
+			],
+			[
+				"in",
+				"include\tabc"
+			],
+			[
+				"show",
+				"showCategoryPage\t(AccommodationController.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"git: branch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 398.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/apps/MealPlan",
+		"/Applications/MAMP/htdocs/apps/MealPlan/public",
+		"/Applications/MAMP/htdocs/apps/MealPlan/public/css",
+		"/Applications/MAMP/htdocs/apps/MealPlan/routes"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/apps/MealPlan/app/Http/Controllers/MealsController.php",
+		"/Applications/MAMP/htdocs/apps/MealPlan/resources/views/home.blade.php",
+		"/Applications/MAMP/htdocs/apps/MealPlan/public/css/style.css",
+		"/Applications/MAMP/htdocs/apps/MealPlan/app/Meals.php",
+		"/Applications/MAMP/htdocs/apps/MealPlan/routes/web.php",
+		"/Applications/MAMP/htdocs/apps/MealPlan/index.php",
+		"/Applications/MAMP/htdocs/apps/MealPlan/composer.json",
+		"/Applications/MAMP/htdocs/apps/MealPlan/.env",
+		"/Applications/MAMP/htdocs/apps/MealPlan/.env-PRODUCTION",
+		"/Applications/MAMP/htdocs/apps/MealPlan/public/index.php",
+		"/Applications/MAMP/htdocs/apps/MealPlan/sftp-config.json",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/index.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/head.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/sidebars/vouchers.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/public/css/style.css",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/brochureRequest.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/nav.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/VoucherForm.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Http/Controllers/FormController.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/emails/PDFBrochureEmail.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Mail/PDFBrochureEmail.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/emails/BrochureRequestEmail.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/routes/web.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/PDFBrochure.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Mail/BrochureRequestEmail.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Http/Controllers/PageController.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/public/css/forms.css",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/Thanks.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/.env",
+		"/Applications/MAMP/htdocs/sites/docklow2019/.envLIVE",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/emails/VoucherEmail.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Mail/VoucherEmail.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Mail/ContactEmail.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/emails/SubscribeEmail.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/navpages/voucherPage.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/public/css/vouchers.css",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/booking.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/accommodation/layout.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/contactform.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/indexlayout.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Http/Controllers/SubscriberController.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/layout.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/navpages/layout.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/lakes/layout.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/Subscribe.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Http/Requests/BrochureRequestValidation.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Mail/BookingEmail.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/brochurePDF.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/accommodation/head.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/lakes/head.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/emails/ContactEmail.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/emails/BookingEmail.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/AddressLookup.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/emails/BrochureDownload.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/head.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/AddressLookup.blade",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/scripts.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/navpages/navpage.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/navpages/brochurerequestpage.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/navpages/finduspage.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/navpages/contactpage.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/errors/formErrors.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Subscribers.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/database/migrations/2020_02_27_133630_add_subscriber_table.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/brochureThanks.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Mailchimp.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/public/css/media.css",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/newsticker.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/public/css/newsticker.css",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/header.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/public/css/nav.css",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/sidebars/tripadvisor.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/SubscribeThanks.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Mail/SubscribeEmail.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/.envLOCAL",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/accommodation/petfriendly.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Http/Controllers/AccommodationController.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/accommodation/fishermanlodges.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/accommodation/premier.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/accommodation/traditional.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/accommodation/shortbreaks.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Exceptions/Handler.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/accommodation/accommodation.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/accommodation/bedbreakfast.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/footer.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/accommodation/property.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/addimg.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/sftp-config.json",
+		"/Applications/MAMP/htdocs/sites/docklow2019/bootstrap/app.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/vendor/laravel/framework/src/Illuminate/Foundation/Console/ServeCommand.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Application.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/accommodation-brochure-request.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/video/layout.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/public/css/accommodation.css",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Mail/SubscriberEmail.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/mailingList.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/config/app.php",
+		"/Volumes/JordanHD/Desktop/text.txt",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/emails/BrochureRequest.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/video/videos.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/storage/framework/views/111f8b98bfa724946e37ad8a0ad991b42373eb8b.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/rules.html",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/brochureRequestMain.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/brochureRequestSidebar.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/strap.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/contact.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/sidebars/lakes.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/lakes/lakes.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/lakes/lakespagelayout.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/thanks.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/accommodation/accommodation.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/forms/accommodation-brochure-request.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/forms/brochure-request.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/videolayout/layout.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/videos.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/videos.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/videos.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/forms/contact.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/partials/sidebars/map.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/navpages/mappage.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/navpages/page.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Navpages.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Rivers.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Lakes.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/NavPageLayout.blade.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Http/Controllers/LakesController.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/app/Helpers/AppHelper.php",
+		"/Applications/MAMP/htdocs/sites/docklow2019/resources/views/fishermanlodges.blade.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 128.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"boot"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Applications/MAMP/htdocs/apps/MealPlan"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 211.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vocuher",
+				"app/Mail/VoucherEmail.php"
+			],
+			[
+				"servecomm",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Console/ServeCommand.php"
+			],
+			[
+				"brochure-r",
+				"resources/views/forms/accommodation-brochure-request.php"
+			],
+			[
+				"404",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/views/404.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "bat",
+		"selected_items":
+		[
+			[
+				"bat",
+				"/Applications/MAMP/htdocs/sites/battenburg/battenburg.sublime-project"
+			],
+			[
+				"dock",
+				"/Applications/MAMP/htdocs/sites/docklow2019/docklow2019.sublime-project"
+			],
+			[
+				"",
+				"/Applications/MAMP/htdocs/sites/docklow2019/docklow2019.sublime-project"
+			],
+			[
+				"f",
+				"/Applications/MAMP/htdocs/sites/fishermans-arms/fishermansarms.sublime-project"
+			],
+			[
+				"tyre",
+				"/Applications/MAMP/htdocs/sites/halls/tyres.sublime-project"
+			],
+			[
+				"bromy",
+				"/Applications/MAMP/htdocs/sites/bromyardpublichall/bph.sublime-project"
+			],
+			[
+				"lloyds",
+				"/Applications/MAMP/htdocs/sites/lloyds-cooper/lloydscooper.sublime-project"
+			],
+			[
+				"battenburg",
+				"/Applications/MAMP/htdocs/sites/battenburg/battenburg.sublime-project"
+			],
+			[
+				"eng",
+				"/Applications/MAMP/htdocs/sites/englandsgate/englandsgate.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,40 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.days {
+    width:100%;
+}
+.day {
+    border:solid 1px #a0aec0;
+    padding:3% 1%;
+    align-items: center;
+    width:100%;
+}
+.kidsmeal {
+    bottom: 0;
+    color:blue;
+}
+.mealTitle {
+    font-size:18px;
+}
+.flex {
+    display: flex;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
